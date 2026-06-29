@@ -1,0 +1,6 @@
+{
+  "name": "Brain Booster",
+  "description": "An interactive, AI-powered bilingual quiz app that rewards your brain with daily fun facts and quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
